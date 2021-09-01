@@ -7,6 +7,6 @@ This repository contains documents, agendas, and notes for the ECMAScript - Secu
 <details open>
 <summary>2021</summary>
 
-- [September 8th](./agendas/2021/09-08.md) ([notes](./notes/2021/09-08.md))
+- [September 8th](./meetings/agendas/2021/09-08.md) ([notes](./meetings/notes/2021/09-08.md))
 
 </details>
