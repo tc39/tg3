@@ -22,13 +22,14 @@ Meetings are bi-weekly, alternating between an APAC-friendly time and an EMEA-fr
 | APAC-friendly meeting            | Timezone     |
 | -------------------------------- | ------------ |
 | 4th Tuesday/Wednesday each month |              |
-| 20:00 Tuesday - US / Central     | US / Central |
-| 01:00 Wednesday - UTC            | UTC          |
-| 09:00 Wednesday - China          | China        |
+| 20:00 Tuesday                    | US / Central |
+| 01:00 Wednesday                  | UTC          |
+| 09:00 Wednesday                  | China        |
 
 <!-- not DST below -->
 
-<!-- | EMEA-friendly meeting             | Timezone     |
+<!--
+| EMEA-friendly meeting             | Timezone     |
 | --------------------------------- | ------------ |
 | 2nd Wednesday/Thursday each month |              |
 | 12:00 Wednesday                   | US / Central |
@@ -38,9 +39,10 @@ Meetings are bi-weekly, alternating between an APAC-friendly time and an EMEA-fr
 | APAC-friendly meeting            | Timezone     |
 | -------------------------------- | ------------ |
 | 4th Tuesday/Wednesday each month |              |
-| 20:00 Tuesday - US / Central     | US / Central |
-| 02:00 Wednesday - UTC            | UTC          |
-| 10:00 Wednesday - China          | China        | -->
+| 20:00 Tuesday                    | US / Central |
+| 02:00 Wednesday                  | UTC          |
+| 10:00 Wednesday                  | China        |
+-->
 
 ## Folks
 
