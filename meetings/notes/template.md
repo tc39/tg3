@@ -2,7 +2,10 @@
 
 ## Folks
 
-- full name (@githubUsername)
+| Name      | GH Username     | TLA | Affiliation  |
+| --------- | --------------- | --- | ------------ |
+| Full Name | @githubUsername | FNE | organization |
+|           |                 |     |              |
 
 ## Agenda
 
