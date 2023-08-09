@@ -1,19 +1,22 @@
 # Agenda Backlog
 
+## Action Items
+
+- ACTION (MM): reach out to Natalie Silvanovich for interest in participation
+- ACTION: do we move any issues from public `security` repo?
+- GH vulnerability disclosure reporting feature
+  - ACTION: CDA: better understanding of the GH reporting mechanism and details
+  - ACTION: need to understand what access GH has to vulnerability disclosure data
+
+## Agenda Items
+
 - general policy on outside collaborators joining the meeting
+- should TG3 repo be public?
 - Strategies used and features/invariants relied upon to write secure programs today (Michael Ficarra)
 - Adopting something like the W3C Self-Review Questionnaire: Security and Privacy
   - IETF has a similar doc: <https://datatracker.ietf.org/doc/html/rfc3552>
 - open issues: <https://github.com/tc39/security/issues>
 - outreach
-- ACTION (MM): reach out to Natalie Silvanovich for interest in participation
-- ACTION: do we move any issues from public `security` repo?
-- incoming and outgoing vulnerability disclosure policy
-  - do we want TC39/TG3 to accept report?
-    - yes
-  - only have one central point for reporting
-  - how does vuln disclosure work wrt stage 3 proposals that may be undergoing implementation, already implemented, polyfills, etc
-  - disclosure for issues with spec itself vs implementation
 - private issues in security repo
 - Discoverability of hidden intrinsics (Mathieu Hofman)
 - How to mark spec internal objects as not exposed to user code (Mathieu Hofman)
@@ -29,9 +32,10 @@
     - <https://github.com/LavaMoat/LavaMoat>
   - JHD: what i like about LavaMoat's approach is that it reduces the set of "potential package vectors" from "all deps" down to "only deps that already legitimately have dangerous permissions", which drastically reduces the manual auditing/review work required.
 - Explore language capabilities that are undeniable, not virtualizable. (MF)
-- review security impact of (Shared) Structs proposal - <https://github.com/tc39/proposal-structs>
-- does TC39 need a formal security review for proposals?
-  - JHD has a related issue on this: <http://github.com/tc39/process-document/pull/18>
+- proposals
+  - review security impact of (Shared) Structs proposal - <https://github.com/tc39/proposal-structs>
+  - does TC39 need a formal security review for proposals?
+    - JHD has a related issue on this: <http://github.com/tc39/process-document/pull/18>
 - MM: Existing code can run in hardened mode
   - biggest problem with running existing code in hardened mode wrt builtins is overriding
     - find a means to suppress override mistake (if possible)
