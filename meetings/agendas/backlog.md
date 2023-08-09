@@ -10,6 +10,8 @@
 
 ## Agenda Items
 
+- incoming and outgoing vulnerability disclosure policy
+  - review notes from [2023-08-09](/meetings/notes/2023/2023-08-09.md) as that is where important feedback and unanswered questions appear
 - general policy on outside collaborators joining the meeting
 - should TG3 repo be public?
 - Strategies used and features/invariants relied upon to write secure programs today (Michael Ficarra)
