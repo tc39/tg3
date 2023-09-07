@@ -9,4 +9,12 @@
 
 ## Agenda
 
-- review of previous agenda and action items
+> [!NOTE]
+> See [backlog.md](/meetings/agendas/backlog.md) for outstanding action items and agenda topics.
+
+| Topic                                      | Presenter(s) |
+| ------------------------------------------ | ------------ |
+| review of previous agenda and action items |              |
+|                                            |              |
+
+### review of previous agenda and action items
