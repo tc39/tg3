@@ -7,6 +7,7 @@
 - GH vulnerability disclosure reporting feature
   - ACTION: CDA: better understanding of the GH reporting mechanism and details
   - ACTION: need to understand what access GH has to vulnerability disclosure data
+- ACTION: CDA: look at new google meet settings to avoid host gatekeeping
 
 ## Agenda Items
 
@@ -43,3 +44,5 @@
     - find a means to suppress override mistake (if possible)
       - if not possible, introduce something to language to create context/realm
     - JHD: changing to accessers can break packages <https://github.com/ljharb/call-bind/issues/4>
+- MAH: need a private place to discuss... private things
+  - feedback while discussing making the TG3 repo public
