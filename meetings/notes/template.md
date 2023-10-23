@@ -10,7 +10,7 @@
 ## Agenda
 
 > [!NOTE]
-> See [backlog.md](/meetings/agendas/backlog.md) for outstanding action items and agenda topics.
+> See [backlog.md](/meetings/notes/backlog.md) for outstanding action items and agenda topics.
 
 | Topic                                      | Presenter(s) |
 | ------------------------------------------ | ------------ |
