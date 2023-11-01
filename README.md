@@ -4,7 +4,7 @@ This repository contains documents, agendas, and notes for the ECMAScript - Secu
 
 ## Agenda
 
-see [2023-09-13](meetings/notes/2023/2023-09-13.md) and [the backlog](meetings/notes/backlog.md) 👀
+see [2023-11-01](meetings/notes/2023/2023-11-01.md) and [the backlog](meetings/notes/backlog.md) 👀
 
 ## Meetings
 
