@@ -4,7 +4,7 @@ This repository contains documents, agendas, and notes for the ECMAScript - Secu
 
 ## Agenda
 
-see [2023-12-13](meetings/notes/2023/2023-12-13.md) and [the backlog](meetings/notes/backlog.md) 👀
+see [2024-02-14](meetings/notes/2024/2024-02-14.md) and [the backlog](meetings/notes/backlog.md) 👀
 
 ## Meetings
 
@@ -14,6 +14,7 @@ Meeting link: <https://meet.google.com/rwh-opnw-cnk>
 
 <!-- DST below -->
 
+<!--
 ### 2nd Wednesday / Thursday each month (EMEA-friendly)
 
 |              |                 |
@@ -29,10 +30,10 @@ Meeting link: <https://meet.google.com/rwh-opnw-cnk>
 | US / Central | 20:00 Tuesday   |
 |          UTC | 01:00 Wednesday |
 |        China | 09:00 Wednesday |
+-->
 
 <!-- not DST below -->
 
-<!--
 ### 2nd Wednesday / Thursday each month (EMEA-friendly)
 
 |              |                 |
@@ -48,7 +49,6 @@ Meeting link: <https://meet.google.com/rwh-opnw-cnk>
 | US / Central | 20:00 Tuesday   |
 |          UTC | 02:00 Wednesday |
 |        China | 10:00 Wednesday |
--->
 
 ## Folks
 
