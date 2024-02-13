@@ -2,19 +2,11 @@
 
 ## Action Items
 
-- ACTION (MM): reach out to Natalie Silvanovich for interest in participation
 - ACTION: do we move any issues from public `security` repo?
-- GH vulnerability disclosure reporting feature
-  - ACTION: CDA: better understanding of the GH reporting mechanism and details
-  - ACTION: need to understand what access GH has to vulnerability disclosure data
-- ACTION: CDA: look at new google meet settings to avoid host gatekeeping
 
 ## Agenda Items
 
-- incoming and outgoing vulnerability disclosure policy
-  - review notes from [2023-08-09](/meetings/notes/2023/2023-08-09.md) as that is where important feedback and unanswered questions appear
 - general policy on outside collaborators joining the meeting
-- should TG3 repo be public?
 - Strategies used and features/invariants relied upon to write secure programs today (Michael Ficarra)
 - Adopting something like the W3C Self-Review Questionnaire: Security and Privacy
   - IETF has a similar doc: <https://datatracker.ietf.org/doc/html/rfc3552>
@@ -37,8 +29,11 @@
 - Explore language capabilities that are undeniable, not virtualizable. (MF)
 - proposals
   - review security impact of (Shared) Structs proposal - <https://github.com/tc39/proposal-structs>
+    - and [WasmGC shared memory proposal](https://github.com/WebAssembly/shared-everything-threads/blob/main/proposals/shared-everything-threads/Overview.md)
   - does TC39 need a formal security review for proposals?
-    - JHD has a related issue on this: <http://github.com/tc39/process-document/pull/18>
+    - related issues on this:
+      - <https://github.com/tc39/security/issues/4>
+      - <http://github.com/tc39/process-document/pull/18>
 - MM: Existing code can run in hardened mode
   - biggest problem with running existing code in hardened mode wrt builtins is overriding
     - find a means to suppress override mistake (if possible)
