@@ -41,3 +41,6 @@
     - JHD: changing to accessers can break packages <https://github.com/ljharb/call-bind/issues/4>
 - MAH: need a private place to discuss... private things
   - feedback while discussing making the TG3 repo public
+- MM: Promise.resolve should not cause a re-entrancy hazard -- MAH would be good to advise on this
+  - internal promise resolve operation (original/initial behavior of Promise.resolve) - simplify that to not check the constructor properry and thereby to not give user code a chance to run during the Promise.resolve operation
+- RGN: lack of constraints around ordering for reporting own keys even on an Object.freeze() frozen object
