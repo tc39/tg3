@@ -1,4 +1,4 @@
-# TG3 - YYYY-MM-DD
+# nth Meeting of TC39-TG3 - YYYY-MM-DD
 
 ## Folks
 
