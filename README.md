@@ -1,6 +1,8 @@
 # ECMAScript - Security Task Group (TC39-TG3)
 
-This repository contains documents, agendas, and notes for the ECMAScript - Security Task Group (TC39-TG3).
+This repository contains documents, agendas, and notes for the [ECMAScript - Security Task Group (TC39-TG3)](https://ecma-international.org/task-groups/tc39-tg3/).
+
+See [Scope](#scope) for our mandate.
 
 ## Agenda
 
@@ -52,6 +54,19 @@ Meeting link: <https://meet.google.com/rwh-opnw-cnk>
 
 ## Folks
 
-- [TG3 Team](https://github.com/orgs/tc39/teams/tg3)
-- Speaker: [Michael Ficarra](https://github.com/michaelficarra)
 - Convenors: [Chris de Almeida](https://github.com/ctcpip), [Jordan Harband](https://github.com/ljharb)
+- Speaker: [Michael Ficarra](https://github.com/michaelficarra)
+- Secretaries: [Samina Husain](https://github.com/SaminaHusain), [Istvan Sebestyen](https://github.com/ecmageneva)
+
+## Scope
+
+To ensure the ECMAScript® (JavaScript™️) security model is effective for the constantly evolving threat landscape of today and tomorrow.
+
+### Programme of work
+
+1. To assess the security impacts of proposals to TC39.
+1. To produce documentation on the ECMAScript® security model.
+1. To introduce proposals that will help developers create secure programs.
+1. To recommend a committee response to privately disclosed security issues.
+1. To maintain best practices or recommendations for writing secure programs.
+1. To monitor the changing threat landscape for popular embeddings.
