@@ -6,7 +6,6 @@
 
 ## Agenda Items
 
-- general policy on outside collaborators joining the meeting
 - Strategies used and features/invariants relied upon to write secure programs today (Michael Ficarra)
 - Adopting something like the W3C Self-Review Questionnaire: Security and Privacy
   - IETF has a similar doc: <https://datatracker.ietf.org/doc/html/rfc3552>
