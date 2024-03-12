@@ -16,7 +16,6 @@ Meeting link: <https://meet.google.com/rwh-opnw-cnk>
 
 <!-- DST below -->
 
-<!--
 ### 2nd Wednesday / Thursday each month (EMEA-friendly)
 
 |              |                 |
@@ -32,10 +31,10 @@ Meeting link: <https://meet.google.com/rwh-opnw-cnk>
 | US / Central | 20:00 Tuesday   |
 |          UTC | 01:00 Wednesday |
 |        China | 09:00 Wednesday |
--->
 
 <!-- not DST below -->
 
+<!--
 ### 2nd Wednesday / Thursday each month (EMEA-friendly)
 
 |              |                 |
@@ -51,6 +50,7 @@ Meeting link: <https://meet.google.com/rwh-opnw-cnk>
 | US / Central | 20:00 Tuesday   |
 |          UTC | 02:00 Wednesday |
 |        China | 10:00 Wednesday |
+-->
 
 ## Folks
 
