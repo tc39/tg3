@@ -6,6 +6,19 @@
 
 ## Agenda Items
 
+- need a (neutral) place to make meeting recordings available
+- TG3 meeting on public calendar?
+- TG3 participants in readme? (GH team is not public)
+- proposals
+  - review security impact of (Shared) Structs proposal - <https://github.com/tc39/proposal-structs>
+    - and [WasmGC shared memory proposal](https://github.com/WebAssembly/shared-everything-threads/blob/main/proposals/shared-everything-threads/Overview.md)
+- review issues in security repo
+  - index accessors: 5% usage in 2017 is now over 30% in 2024, likely due to use in popular lib(s)
+    - <https://chromestatus.com/metrics/feature/timeline/popularity/2238>
+- does TC39 need a formal security review for proposals?
+  - related issues on this:
+    - <https://github.com/tc39/security/issues/4>
+    - <http://github.com/tc39/process-document/pull/18>
 - Strategies used and features/invariants relied upon to write secure programs today (Michael Ficarra)
 - Adopting something like the W3C Self-Review Questionnaire: Security and Privacy
   - IETF has a similar doc: <https://datatracker.ietf.org/doc/html/rfc3552>
@@ -26,13 +39,6 @@
     - <https://github.com/LavaMoat/LavaMoat>
   - JHD: what i like about LavaMoat's approach is that it reduces the set of "potential package vectors" from "all deps" down to "only deps that already legitimately have dangerous permissions", which drastically reduces the manual auditing/review work required.
 - Explore language capabilities that are undeniable, not virtualizable. (MF)
-- proposals
-  - review security impact of (Shared) Structs proposal - <https://github.com/tc39/proposal-structs>
-    - and [WasmGC shared memory proposal](https://github.com/WebAssembly/shared-everything-threads/blob/main/proposals/shared-everything-threads/Overview.md)
-  - does TC39 need a formal security review for proposals?
-    - related issues on this:
-      - <https://github.com/tc39/security/issues/4>
-      - <http://github.com/tc39/process-document/pull/18>
 - MM: Existing code can run in hardened mode
   - biggest problem with running existing code in hardened mode wrt builtins is overriding
     - find a means to suppress override mistake (if possible)

@@ -6,17 +6,17 @@ See [Scope](#scope) for our mandate.
 
 ## Agenda
 
-see [2024-03-13](meetings/2024/2024-03-13.md) and [the backlog](meetings/backlog.md) 👀
+see [2024-03-13](meetings/2024/2024-03-20.md) and [the backlog](meetings/backlog.md) 👀
 
 ## Meetings
 
-Meetings are bi-weekly, alternating between an APAC-friendly time and an EMEA-friendly time. The meetings appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
+Meetings occur every Wednesday and appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
 
-Meeting link: <https://meet.google.com/rwh-opnw-cnk>
+Meeting link: [join zoom meeting](https://us02web.zoom.us/j/81143085896?pwd=TUE3WGgrdEZmNFZJc0g4QzBHUWczdz09)
 
 <!-- DST below -->
 
-### 2nd Wednesday / Thursday each month (EMEA-friendly)
+### Every Wednesday
 
 |              |                 |
 | -----------: | --------------- |
@@ -24,32 +24,16 @@ Meeting link: <https://meet.google.com/rwh-opnw-cnk>
 |          UTC | 17:00 Wednesday |
 |        China | 01:00 Thursday  |
 
-### 4th Tuesday / Wednesday each month (APAC-friendly)
-
-|              |                 |
-| -----------: | --------------- |
-| US / Central | 20:00 Tuesday   |
-|          UTC | 01:00 Wednesday |
-|        China | 09:00 Wednesday |
-
 <!-- not DST below -->
 
 <!--
-### 2nd Wednesday / Thursday each month (EMEA-friendly)
+### Every Wednesday
 
 |              |                 |
 | -----------: | --------------- |
 | US / Central | 12:00 Wednesday |
 |          UTC | 18:00 Wednesday |
 |        China | 02:00 Thursday  |
-
-### 4th Tuesday / Wednesday each month (APAC-friendly)
-
-|              |                 |
-| -----------: | --------------- |
-| US / Central | 20:00 Tuesday   |
-|          UTC | 02:00 Wednesday |
-|        China | 10:00 Wednesday |
 -->
 
 ## Folks
