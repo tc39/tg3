@@ -38,9 +38,27 @@ Meeting link: [join zoom meeting](https://us02web.zoom.us/j/81143085896?pwd=TUE3
 
 ## Folks
 
-- Convenors: [Chris de Almeida](https://github.com/ctcpip), [Jordan Harband](https://github.com/ljharb)
-- Speaker: [Michael Ficarra](https://github.com/michaelficarra)
-- Secretaries: [Samina Husain](https://github.com/SaminaHusain), [Istvan Sebestyen](https://github.com/ecmageneva)
+- Convenors
+  - [Chris de Almeida](https://github.com/ctcpip)
+  - [Jordan Harband](https://github.com/ljharb)
+  - [Kris Kowal](https://github.com/kriskowal) (to be confirmed at [the next plenary meeting](https://github.com/tc39/agendas/blob/main/2024/04.md))
+- Speaker
+  - [Michael Ficarra](https://github.com/michaelficarra)
+- Members
+  - [Chip Morningstar](https://github.com/FUDCo)
+  - [Chris de Almeida](https://github.com/ctcpip)
+  - [Daniel Veditz](https://github.com/dveditz)
+  - [Jack Works](https://github.com/Jack-Works)
+  - [Jordan Harband](https://github.com/ljharb)
+  - [Kris Kowal](https://github.com/kriskowal)
+  - [Mark Miller](https://github.com/erights)
+  - [Mathieu Hofman](https://github.com/mhofman)
+  - [Michael Ficarra](https://github.com/michaelficarra)
+  - [Peter Hoddie](https://github.com/phoddie)
+  - [Richard Gibson](https://github.com/gibson042)
+- Secretaries
+  - [Samina Husain](https://github.com/SaminaHusain)
+  - [Istvan Sebestyen](https://github.com/ecmageneva)
 
 ## Scope
 
