@@ -25,10 +25,10 @@ Meeting link: [join zoom meeting](https://us02web.zoom.us/j/81143085896?pwd=TUE3
 ## Folks
 
 > [!NOTE]
-> Add a ✅ to the `Present` column in the table below, and add anyone missing. Also add to [the template](../template.md) and [GitHub team](https://github.com/orgs/tc39/teams/tg3) if the individual is a regular attendee.
+> Add a ✓ to the `Present` column in the table below, and add anyone missing. Also add to [the template](../template.md) and [GitHub team](https://github.com/orgs/tc39/teams/tg3) if the individual is a regular attendee.
 
 | Present | Name             | GH Username     | TLA | Affiliation |
-| ------- | ---------------- | --------------- | --- | ----------- |
+| :-----: | ---------------- | --------------- | --- | ----------- |
 |         | Chip Morningstar | @FUDCo          | CM  | Agoric      |
 |         | Chris de Almeida | @ctcpip         | CDA | IBM         |
 |         | Daniel Veditz    | @dveditz        | DPV | Mozilla     |
