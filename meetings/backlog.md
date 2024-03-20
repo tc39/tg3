@@ -6,6 +6,7 @@
 
 ## Agenda Items
 
+- CP: ShadowRealm interaction with Trusted Types
 - need a (neutral) place to make meeting recordings available
 - TG3 meeting on public calendar?
 - TG3 participants in readme? (GH team is not public)

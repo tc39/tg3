@@ -6,7 +6,7 @@ See [Scope](#scope) for our mandate.
 
 ## Agenda
 
-see [2024-03-20](meetings/2024/2024-03-20.md) and [the backlog](meetings/backlog.md) 👀
+see [2024-03-27](meetings/2024/2024-03-27.md) and [the backlog](meetings/backlog.md) 👀
 
 ## Meetings
 
