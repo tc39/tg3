@@ -6,7 +6,7 @@ See [Scope](#scope) for our mandate.
 
 ## Agenda
 
-see [2024-04-03](meetings/2024/2024-04-03.md) and [the backlog](meetings/backlog.md) 👀
+see [2024-04-17](meetings/2024/2024-04-17.md) and [the backlog](meetings/backlog.md) 👀
 
 ## Meetings
 
@@ -35,6 +35,10 @@ Meeting link: [join zoom meeting](https://us02web.zoom.us/j/81143085896?pwd=TUE3
 |          UTC | 18:00 Wednesday |
 |        China | 02:00 Thursday  |
 -->
+
+## Chat
+
+We use Matrix room [#tc39-tg3-security:matrix.org](https://matrix.to/#/#tc39-tg3-security:matrix.org). See the [TC39 Matrix Guide](https://github.com/tc39/how-we-work/blob/main/matrix-guide.md) for details if you are unfamiliar with Matrix.
 
 ## Folks
 
