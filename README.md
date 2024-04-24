@@ -6,13 +6,13 @@ See [Scope](#scope) for our mandate.
 
 ## Agenda
 
-see [2024-04-17](meetings/2024/2024-04-17.md) and [the backlog](meetings/backlog.md) 👀
+see [2024-04-24](meetings/2024/2024-04-24.md) and [the backlog](meetings/backlog.md) 👀
 
 ## Meetings
 
 Meetings occur every Wednesday and appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
 
-Meeting link: [join zoom meeting](https://us02web.zoom.us/j/81143085896?pwd=TUE3WGgrdEZmNFZJc0g4QzBHUWczdz09)
+Meeting link: [join meeting](https://ibm.webex.com/ibm/j.php?MTID=me87a7dba2f405268a892bc69ad1c3cdd)
 
 <!-- DST below -->
 
