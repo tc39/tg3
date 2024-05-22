@@ -32,14 +32,18 @@ Meeting link: [join meeting](https://ibm.webex.com/ibm/j.php?MTID=me87a7dba2f405
 |         | Chip Morningstar | @FUDCo          | CM  | Agoric      |
 |         | Chris de Almeida | @ctcpip         | CDA | IBM         |
 |         | Daniel Veditz    | @dveditz        | DPV | Mozilla     |
+|         | Eli Grey         | @eligrey        |     | Transcend   |
 |         | Jack Works       | @Jack-Works     | JWK | Sujitech    |
+|         | Jasvir Nagra     | @jasvir         |     | Picovisor   |
 |         | Jordan Harband   | @ljharb         | JHD | HeroDevs    |
 |         | Kris Kowal       | @kriskowal      | KKL | Agoric      |
 |         | Mark Miller      | @erights        | MM  | Agoric      |
 |         | Mathieu Hofman   | @mhofman        | MHN | Agoric      |
 |         | Michael Ficarra  | @michaelficarra | MF  | F5          |
+|         | Nicolò Ribaudo   | @nicolo-ribaudo | NRO | Igalia      |
 |         | Peter Hoddie     | @phoddie        | PHE | Moddable    |
 |         | Richard Gibson   | @gibson042      | RGN | Agoric      |
+|         | Ulises Gascón    | @UlisesGascon   |     | One Beyond  |
 |         |                  |                 |     |             |
 
 ## Agenda
