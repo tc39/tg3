@@ -50,3 +50,4 @@
 - MM: Promise.resolve should not cause a re-entrancy hazard -- MAH would be good to advise on this
   - internal promise resolve operation (original/initial behavior of Promise.resolve) - simplify that to not check the constructor properry and thereby to not give user code a chance to run during the Promise.resolve operation
 - RGN: lack of constraints around ordering for reporting own keys even on an Object.freeze() frozen object
+- DE: async context and poorly behaved dynamic scope
