@@ -6,7 +6,7 @@ See [Scope](#scope) for our mandate.
 
 ## Agenda
 
-see [2024-05-29](meetings/2024/2024-05-29.md) and [the backlog](meetings/backlog.md) 👀
+see [2024-06-05](meetings/2024/2024-06-05.md) and [the backlog](meetings/backlog.md) 👀
 
 ## Meetings
 
@@ -45,7 +45,7 @@ We use Matrix room [#tc39-tg3-security:matrix.org](https://matrix.to/#/#tc39-tg3
 - Convenors
   - [Chris de Almeida](https://github.com/ctcpip)
   - [Jordan Harband](https://github.com/ljharb)
-  - [Kris Kowal](https://github.com/kriskowal) (to be confirmed at [the next plenary meeting](https://github.com/tc39/agendas/blob/main/2024/04.md))
+  - [Kris Kowal](https://github.com/kriskowal)
 - Speaker
   - [Michael Ficarra](https://github.com/michaelficarra)
 - Members
