@@ -4,10 +4,6 @@ This repository contains documents, agendas, and notes for the [ECMAScript - Sec
 
 See [Scope](#scope) for our mandate.
 
-## Agenda
-
-see [2024-06-05](meetings/2024/2024-06-05.md) and [the backlog](meetings/backlog.md) 👀
-
 ## Meetings
 
 Meetings occur every Wednesday and appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
@@ -60,9 +56,6 @@ We use Matrix room [#tc39-tg3-security:matrix.org](https://matrix.to/#/#tc39-tg3
   - [Michael Ficarra](https://github.com/michaelficarra)
   - [Peter Hoddie](https://github.com/phoddie)
   - [Richard Gibson](https://github.com/gibson042)
-- Secretaries
-  - [Samina Husain](https://github.com/SaminaHusain)
-  - [Istvan Sebestyen](https://github.com/ecmageneva)
 
 ## Scope
 
