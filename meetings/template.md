@@ -20,7 +20,8 @@
 |        China | 02:00 Thursday  |
 -->
 
-Meeting link: [join meeting](https://ibm.webex.com/ibm/j.php?MTID=me87a7dba2f405268a892bc69ad1c3cdd)
+- [Join meeting](https://agoric.zoom.us/j/87311120448?pwd=RQGMvM40aj3DJ4YBPj2JrdK2T8xKYj.1)
+- [Agenda](https://hackmd.io/PQ9FSbVsSo6FcbnH9xGySA)
 
 ## Folks
 

@@ -8,21 +8,21 @@ See [Scope](#scope) for our mandate.
 
 Meetings occur every Wednesday and appear on the [TC39 private calendar](https://github.com/tc39/Reflector#tc39-private-calendar).
 
-Meeting link: [join meeting](https://ibm.webex.com/ibm/j.php?MTID=me87a7dba2f405268a892bc69ad1c3cdd)
+- [Join meeting](https://agoric.zoom.us/j/87311120448?pwd=RQGMvM40aj3DJ4YBPj2JrdK2T8xKYj.1)
+- [Agenda](https://hackmd.io/PQ9FSbVsSo6FcbnH9xGySA)
 
 <!-- DST below -->
 
-### Every Wednesday
+<!-- ### Every Wednesday
 
 |              |                 |
 | -----------: | --------------- |
 | US / Central | 12:00 Wednesday |
 |          UTC | 17:00 Wednesday |
-|        China | 01:00 Thursday  |
+|        China | 01:00 Thursday  | -->
 
 <!-- not DST below -->
 
-<!--
 ### Every Wednesday
 
 |              |                 |
@@ -30,7 +30,6 @@ Meeting link: [join meeting](https://ibm.webex.com/ibm/j.php?MTID=me87a7dba2f405
 | US / Central | 12:00 Wednesday |
 |          UTC | 18:00 Wednesday |
 |        China | 02:00 Thursday  |
--->
 
 ## Chat
 
@@ -45,17 +44,29 @@ We use Matrix room [#tc39-tg3-security:matrix.org](https://matrix.to/#/#tc39-tg3
 - Speaker
   - [Michael Ficarra](https://github.com/michaelficarra)
 - Members
+  - [Caridy Patiño](https://github.com/caridy)
   - [Chip Morningstar](https://github.com/FUDCo)
   - [Chris de Almeida](https://github.com/ctcpip)
+  - [Daniel Ehrenberg](https://github.com/littledan)
   - [Daniel Veditz](https://github.com/dveditz)
-  - [Jack Works](https://github.com/Jack-Works)
+  - [Eli Grey](https://github.com/eligrey)
+  - [Guy Bedford](https://github.com/guybedford)
+  - [Jesse Alama](https://github.com/jessealama)
   - [Jordan Harband](https://github.com/ljharb)
+  - [Jovonni Smith-Martinez](https://github.com/Jovonni)
   - [Kris Kowal](https://github.com/kriskowal)
+  - [Luca Casonato](https://github.com/lucacasonato)
+  - [Marco Ippolito](https://github.com/marco-ippolito)
   - [Mark Miller](https://github.com/erights)
   - [Mathieu Hofman](https://github.com/mhofman)
   - [Michael Ficarra](https://github.com/michaelficarra)
+  - [Nicolò Ribaudo](https://github.com/nicolo-ribaudo)
   - [Peter Hoddie](https://github.com/phoddie)
   - [Richard Gibson](https://github.com/gibson042)
+  - [Shane Carr](https://github.com/sffc)
+  - [Shay Lewis](https://github.com/shaylew)
+  - [Ulises Gascón](https://github.com/UlisesGascon)
+  - [Waldemar Horwat](https://github.com/waldemarhorwat)
 
 ## Scope
 
